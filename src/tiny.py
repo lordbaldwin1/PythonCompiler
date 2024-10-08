@@ -1,6 +1,7 @@
 from lex import *
 
 def main():
+    # testing
     source = "IF+-123 foo*THEN/"
     lexer = Lexer(source)
 
